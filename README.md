@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel
-- 🌱 I’m a Graduate Software Developer at Nile.ag; focused on Go back-end development
+- 🌱 I’m a Software Developer at Nile.ag; focused on Go back-end development
 - 🎲 I love playing/making any and all games in my free time. I've also got a growing board game collection.
 
 <!---
